@@ -5,10 +5,9 @@
   <artifactId>reservation</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>reservation Maven Webapp</name>
+  <name>reservation</name>
   <url>http://maven.apache.org</url>
-  
-  <properties>
+   <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<spring.version>4.3.5.RELEASE</spring.version>
 	</properties>
